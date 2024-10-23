@@ -1,0 +1,23 @@
+{
+  "name": "typescript",
+  "version": "1.0.0",
+  "description": "practices with typescript",
+  "main": "index.js",
+  "devDependencies": {
+    "typescript": "^5.6.3"
+  },
+  "scripts": {
+    "compiler": "tsc",
+    "code": "node ./build/module01.js",
+    "app": "node ./build/app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "none"
+  },
+  "keywords": [
+    "typescript"
+  ],
+  "author": "Andrea Bolanos",
+  "license": "ISC"
+}
